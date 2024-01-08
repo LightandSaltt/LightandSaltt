@@ -28,14 +28,12 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)      ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)      ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)     ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 </div>
 
+<div align="center">
 
 🤝🏻  Project
 
-
-<div align="center">
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- <a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper</a>
+<a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper</a>
 
 </div>
 
