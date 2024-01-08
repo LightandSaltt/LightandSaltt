@@ -6,11 +6,12 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- Name : 박승민(Park Seung Min)
-- Email : qkrtmd5@naver.com
-- Velog : https://velog.io/@lightoftheworld/posts
-
 <div align="center">
+
+### Name : 박승민(Park Seung Min)
+### Email : qkrtmd5@naver.com
+### Velog : https://velog.io/@lightoftheworld/posts
+
   
 ![LightandSaltt's GitHub stats](https://github-readme-stats.vercel.app/api?username=LightandSaltt&show_icons=true&theme=radical) 
 
