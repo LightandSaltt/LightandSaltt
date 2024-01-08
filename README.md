@@ -6,7 +6,7 @@
 
 ⌨️       My Skill
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) ![Spring](https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 
 
