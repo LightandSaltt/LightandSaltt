@@ -6,7 +6,7 @@
 
 ⌨️       My Skill
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Spring](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=#6DB33F)
+![Spring](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Spring&logoColor=green)
 
 출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 
