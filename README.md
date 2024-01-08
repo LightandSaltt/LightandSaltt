@@ -32,12 +32,11 @@
 <div align="center">
 
 🤝🏻  Project
-</div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 - <a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper</a>
 
-
+</div>
 
 <div align="center">
 
