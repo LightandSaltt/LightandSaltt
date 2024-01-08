@@ -6,7 +6,7 @@
 
 ⌨️       My Skill
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-![Spring](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-007396.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 
 🧑🏻‍💻      My Stats 
