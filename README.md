@@ -7,31 +7,31 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <div align="center">
+A Back-End Developer in from South Korea
 
 ### Name : 박승민(Park Seung Min)
 ### Email : qkrtmd5@naver.com
 ### Velog : https://velog.io/@lightoftheworld/posts
 
-  
-![LightandSaltt's GitHub stats](https://github-readme-stats.vercel.app/api?username=LightandSaltt&show_icons=true&theme=radical) 
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrtmd893)](https://solved.ac/qkrtmd893)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLightandSaltt&count_bg=%233A7FFF&title_bg=%23606060&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80+Today+%2F+Total+&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
 <div align="center">
 
-⌨️  My Skill
+⌨️  Skill
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)      ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)      ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)     ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,linux,c,vim,py,fastapi,spring,java" />
+  </a>
+</p>
 
 🤝🏻  Projcet
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper</a>
-
+<a href="https://github.com/LightandSaltt/2024_capstone_design_teamPioneer">Capstone Design</a>
 </div>
 
 <div align="center">
