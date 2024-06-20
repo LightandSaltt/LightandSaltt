@@ -32,9 +32,10 @@
 
 🤝🏻  Projcet
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper</a>
+<a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper for indeed / weworkremotley</a>
 
-<a href="https://github.com/LightandSaltt/2024_capstone_design_teamPioneer">Capstone Design - 교내 학식 어플</a>
+<a href="https://github.com/LightandSaltt/2024_capstone_design_teamPioneer">한남대학교 학생 식당 식권 온라인 결제 시스템및
+QR 코드 기반 결제 확인 애플리케이션</a>
 </div>
 
 <div align="center">
@@ -45,6 +46,8 @@
 
 </div>
 
+
+<div align="center">
 🏆 Awards
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |대회명|기관/단체명|일자|수상내역|
