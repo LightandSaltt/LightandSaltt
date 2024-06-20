@@ -34,13 +34,13 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a href="https://github.com/LightandSaltt/python_scrapper">Python Web Scrapper</a>
 
-<a href="https://github.com/LightandSaltt/2024_capstone_design_teamPioneer">Capstone Design</a>
+<a href="https://github.com/LightandSaltt/2024_capstone_design_teamPioneer">Capstone Design - 교내 학식 어플</a>
 </div>
 
 <div align="center">
 
 🖋️ Career
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+### 2024-1학기 컴퓨터공학과 캡스톤디자인 장려상
 
 </div>
