@@ -14,7 +14,6 @@
 ### Velog : https://velog.io/@lightoftheworld/posts
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLightandSaltt&count_bg=%233A7FFF&title_bg=%23606060&icon=&icon_color=%23E7E7E7&title=%F0%9F%91%80+Today+%2F+Total+&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 </div>
